@@ -1,0 +1,17 @@
+langchain
+openai
+python-dotenv
+gunicorn
+langchain
+langchain-community
+pinecone-client
+pandas
+langchain_openai
+langchain_pinecone
+nltk
+fastapi
+uvicorn
+aiohttp 
+slowapi
+pydantic
+pydantic-settings
